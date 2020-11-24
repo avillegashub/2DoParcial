@@ -1,14 +1,14 @@
-ORDEN NRO: RR55
+ORDEN NRO: JJ11
 ------------------------------------------------
-DNI:       55555555
-Nombre:    Ramon
-Apellido:  Ramonson
-Direccion: Calle Sin Retorno 4125
+DNI:       11111111
+Nombre:    Jose
+Apellido:  Joseson
+Direccion: Av. Siempre Viva 1111
 
 ----------------------ORDEN----------------------
-5     Nachos                        4,69           
+1     Hamburguesas                  9,79           
 
-6     Combo1                        12,69          
+10    Bebida                        0,69           
 
 8     Combo3                        14,69          
 
@@ -16,5 +16,5 @@ Direccion: Calle Sin Retorno 4125
 
 
 ------------------------------------------------
-DIRECCION ENTREGA: Calle Sin Retorno 4125
+DIRECCION ENTREGA: Av. Siempre Viva 1111
 

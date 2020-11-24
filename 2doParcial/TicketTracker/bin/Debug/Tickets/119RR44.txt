@@ -1,0 +1,20 @@
+ORDEN NRO: RR44
+------------------------------------------------
+DNI:       44444444
+Nombre:    Rodrigo
+Apellido:  Rodrigoson
+Direccion: Av. Cruzando la Calle
+
+----------------------ORDEN----------------------
+4     Arepa                         6,69           
+
+8     Combo3                        14,69          
+
+1     Hamburguesas                  9,79           
+
+5     Nachos                        4,69           
+
+
+------------------------------------------------
+DIRECCION ENTREGA: Av. Cruzando la Calle
+

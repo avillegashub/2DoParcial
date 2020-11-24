@@ -1,20 +1,20 @@
-ORDEN NRO: PP22
+ORDEN NRO: EC77
 ------------------------------------------------
-DNI:       22222222
-Nombre:    Pablo
-Apellido:  Pabloson
-Direccion: Av. Lejitos 4178
+DNI:       77777777
+Nombre:    Estoy
+Apellido:  Cansado
+Direccion: Quiero dormir
 
 ----------------------ORDEN----------------------
-2     Pancho                        8,79           
+6     Combo1                        12,69          
 
 6     Combo1                        12,69          
 
 5     Nachos                        4,69           
 
-2     Pancho                        8,79           
+6     Combo1                        12,69          
 
 
 ------------------------------------------------
-DIRECCION ENTREGA: Av. Lejitos 4178
+DIRECCION ENTREGA: Quiero dormir
 
