@@ -1,0 +1,20 @@
+ORDEN NRO: MM33
+------------------------------------------------
+DNI:       33333333
+Nombre:    Mario
+Apellido:  Marioson
+Direccion: Av. Cerquita 9871
+
+----------------------ORDEN----------------------
+2     Pancho                        8,79           
+
+5     Nachos                        4,69           
+
+1     Hamburguesas                  9,79           
+
+2     Pancho                        8,79           
+
+
+------------------------------------------------
+DIRECCION ENTREGA: Av. Cerquita 9871
+

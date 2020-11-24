@@ -1,0 +1,11 @@
+24/11/2020 10:34:14Se produjo una excepción de tipo 'System.Exception'.
+24/11/2020 10:36:04Error en Carga XML
+~24/11/2020 14:32:51Error en Carga XML
+~24/11/2020 14:35:59Error en Carga XML
+~24/11/2020 14:59:18Error en Carga XML
+~24/11/2020 15:16:42El proceso no puede obtener acceso al archivo 'C:\Users\Bitter\Desktop\2doParcial\TicketTracker\bin\Debug\Tickets\113AP10.txt' porque está siendo utilizado en otro proceso.
+~24/11/2020 16:09:01El proceso no puede obtener acceso al archivo 'C:\Users\Bitter\Desktop\2doParcial\TicketTracker\bin\Debug\Tickets\110MM33.txt' porque está siendo utilizado en otro proceso.
+~24/11/2020 16:09:01El proceso no puede obtener acceso al archivo 'C:\Users\Bitter\Desktop\2doParcial\TicketTracker\bin\Debug\Tickets\110MM33.txt' porque está siendo utilizado en otro proceso.
+~24/11/2020 16:09:01El proceso no puede obtener acceso al archivo 'C:\Users\Bitter\Desktop\2doParcial\TicketTracker\bin\Debug\Logs\ErrorLog.txt' porque está siendo utilizado en otro proceso.
+~24/11/2020 16:10:02El proceso no puede obtener acceso al archivo 'C:\Users\Bitter\Desktop\2doParcial\TicketTracker\bin\Debug\Tickets\112PP22.txt' porque está siendo utilizado en otro proceso.
+~24/11/2020 16:10:02El proceso no puede obtener acceso al archivo 'C:\Users\Bitter\Desktop\2doParcial\TicketTracker\bin\Debug\Logs\ErrorLog.txt' porque está siendo utilizado en otro proceso.

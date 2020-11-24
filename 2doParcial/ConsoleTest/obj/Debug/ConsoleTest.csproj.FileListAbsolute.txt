@@ -1,0 +1,12 @@
+C:\Users\Bitter\source\repos\2doParcial\ConsoleTest\obj\Debug\ConsoleTest.csprojAssemblyReference.cache
+C:\Users\Bitter\source\repos\2doParcial\ConsoleTest\obj\Debug\ConsoleTest.csproj.CoreCompileInputs.cache
+C:\Users\Bitter\source\repos\2doParcial\ConsoleTest\bin\Debug\ConsoleTest.exe.config
+C:\Users\Bitter\source\repos\2doParcial\ConsoleTest\bin\Debug\ConsoleTest.exe
+C:\Users\Bitter\source\repos\2doParcial\ConsoleTest\bin\Debug\ConsoleTest.pdb
+C:\Users\Bitter\source\repos\2doParcial\ConsoleTest\bin\Debug\Entidades.dll
+C:\Users\Bitter\source\repos\2doParcial\ConsoleTest\bin\Debug\Entidades.pdb
+C:\Users\Bitter\source\repos\2doParcial\ConsoleTest\obj\Debug\ConsoleTest.csproj.CopyComplete
+C:\Users\Bitter\source\repos\2doParcial\ConsoleTest\obj\Debug\ConsoleTest.exe
+C:\Users\Bitter\source\repos\2doParcial\ConsoleTest\obj\Debug\ConsoleTest.pdb
+C:\Users\Bitter\source\repos\2doParcial\ConsoleTest\bin\Debug\Funcionalidad.dll
+C:\Users\Bitter\source\repos\2doParcial\ConsoleTest\bin\Debug\Funcionalidad.pdb

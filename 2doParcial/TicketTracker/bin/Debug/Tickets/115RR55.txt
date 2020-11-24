@@ -1,0 +1,20 @@
+ORDEN NRO: RR55
+------------------------------------------------
+DNI:       55555555
+Nombre:    Ramon
+Apellido:  Ramonson
+Direccion: Calle Sin Retorno 4125
+
+----------------------ORDEN----------------------
+4     Arepa                         6,69           
+
+3     Pizza                         10,79          
+
+6     Combo1                        12,69          
+
+1     Hamburguesas                  9,79           
+
+
+------------------------------------------------
+DIRECCION ENTREGA: Calle Sin Retorno 4125
+

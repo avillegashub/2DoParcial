@@ -1,0 +1,20 @@
+ORDEN NRO: MM33
+------------------------------------------------
+DNI:       33333333
+Nombre:    Mario
+Apellido:  Marioson
+Direccion: Av. Cerquita 9871
+
+----------------------ORDEN----------------------
+8     Combo3                        14,69          
+
+1     Hamburguesas                  9,79           
+
+3     Pizza                         10,79          
+
+7     Combo2                        13,69          
+
+
+------------------------------------------------
+DIRECCION ENTREGA: Av. Cerquita 9871
+

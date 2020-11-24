@@ -1,0 +1,6 @@
+C:\Users\Bitter\source\repos\2doParcial\Funcionalidad\bin\Debug\Funcionalidad.dll
+C:\Users\Bitter\source\repos\2doParcial\Funcionalidad\bin\Debug\Funcionalidad.pdb
+C:\Users\Bitter\source\repos\2doParcial\Funcionalidad\obj\Debug\Funcionalidad.csprojAssemblyReference.cache
+C:\Users\Bitter\source\repos\2doParcial\Funcionalidad\obj\Debug\Funcionalidad.csproj.CoreCompileInputs.cache
+C:\Users\Bitter\source\repos\2doParcial\Funcionalidad\obj\Debug\Funcionalidad.dll
+C:\Users\Bitter\source\repos\2doParcial\Funcionalidad\obj\Debug\Funcionalidad.pdb
